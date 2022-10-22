@@ -1,0 +1,15 @@
+C:\Users\denxa\source\repos\LR4Task2\bin\Debug\LR4Task2.exe.config
+C:\Users\denxa\source\repos\LR4Task2\bin\Debug\LR4Task2.exe
+C:\Users\denxa\source\repos\LR4Task2\bin\Debug\LR4Task2.pdb
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\LR4Task2.csprojAssemblyReference.cache
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\MainWindow.g.cs
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\App.g.cs
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\LR4Task2_MarkupCompile.cache
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\LR4Task2_MarkupCompile.lref
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\MainWindow.baml
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\LR4Task2.g.resources
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\LR4Task2.Properties.Resources.resources
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\LR4Task2.csproj.GenerateResource.cache
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\LR4Task2.csproj.CoreCompileInputs.cache
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\LR4Task2.exe
+C:\Users\denxa\source\repos\LR4Task2\obj\Debug\LR4Task2.pdb
